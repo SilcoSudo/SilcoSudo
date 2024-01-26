@@ -1,4 +1,4 @@
-### Hi there the code below to QuyTruong👋
+### Hi there the code belong to QuyTruong👋
 
 <!--
 **SilcoSudo/SilcoSudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
